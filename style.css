@@ -1,0 +1,19 @@
+#time-border{
+    border: 2px solid black;
+    width: fit-content;
+}
+#stopwatch{
+    border: 2px solid black;
+    width: fit-content;
+}
+#timer-display{
+    border: 2px solid black;
+    width: fit-content;
+}
+.input{
+    width: 0.5in;
+}
+.dial{
+    transform: rotate(-90deg);
+    transform-origin: 50%;
+}
